@@ -4,7 +4,7 @@
 
 ## Get Started
 
-Clone this repository and run the `Task_2.java` file in your Java environment to start playing the Number Guessing Game!
+- Clone this repository and run the `Task_2.java` file in your Java environment to start playing the Number Guessing Game!
 
 ---
 
@@ -14,8 +14,8 @@ Clone this repository and run the `Task_2.java` file in your Java environment to
 
 ## Instructions
 
-- **Total Number Of Rounds:** 3
-- **Attempts To Guess Number In Each Round:** 10
+- **Total Number Of Rounds :** 3
+- **Attempts To Guess Number In Each Round :** 10
 
 ## How to Play
 ```bash

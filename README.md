@@ -2,7 +2,7 @@
 
 # Number Guessing Game
 
-Welcome to the Number Guessing Game! This simple Java application challenges you to guess a randomly generated number within a specified range.
+> Welcome to the Number Guessing Game! This simple Java application challenges you to guess a randomly generated number within a specified range.
 
 ## Instructions
 
@@ -10,11 +10,12 @@ Welcome to the Number Guessing Game! This simple Java application challenges you
 - **Attempts To Guess Number In Each Round:** 10
 
 ## How to Play
-
+```bash
 1. Run the program.
 2. Enter your guess for the randomly generated number within the given range.
 3. You have a limited number of attempts to guess the correct number.
 4. Repeat for each round until all rounds are completed.
+```
 
 ## Scoring
 

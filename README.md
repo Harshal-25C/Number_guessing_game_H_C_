@@ -1,8 +1,16 @@
-# Number_guessing_game_H_C_
-
 # Number Guessing Game
 
 > Welcome to the Number Guessing Game! This simple Java application challenges you to guess a randomly generated number within a specified range.
+
+## Get Started
+
+Clone this repository and run the `Task_2.java` file in your Java environment to start playing the Number Guessing Game!
+
+---
+
+**Caption :** " Can you guess the number? Test your luck and logic with this Java-based Number Guessing Game! See if you can outsmart the RNG and score big. Ready to take on the challenge?"
+
+--- 
 
 ## Instructions
 
@@ -21,12 +29,3 @@
 
 Your score is determined by the number of attempts left after guessing the correct number in each round. The total score is accumulated across all rounds.
 
-## Get Started
-
-Clone this repository and run the `Task_2.java` file in your Java environment to start playing the Number Guessing Game!
-
----
-
-**Caption:** "Can you guess the number? Test your luck and logic with this Java-based Number Guessing Game! See if you can outsmart the RNG and score big. Ready to take on the challenge?"
-
---- 

@@ -29,6 +29,10 @@
 
 Your score is determined by the number of attempts left after guessing the correct number in each round. The total score is accumulated across all rounds.
 
+
+## LinkdIn Post Link : [ https://www.linkedin.com/posts/harshal-choudhary-a75117259_javadevelopment-internshipproject-oasisinfobyte-activity-7181558689969934336-Qt7r?utm_source=share&utm_medium=member_desktop ]
+
+
 ## Contributing :
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 - [ Harshal Choudhary ] - [ harshalchoudhary340@gmail.com ].
